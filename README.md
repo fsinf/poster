@@ -83,7 +83,8 @@ If you want to create a new poster, you can do so by first forking the repositor
 
 Here is an example pull request:
 
-#TODO (insert image)
+![image](https://github.com/fsinf/poster/assets/12549027/669ea564-6eb6-4c35-97c5-f07b959fbf74)
+
 
 If you don't know how to fork a repository and create a pull request, you can watch this video: [GitHub Pull Request in 100 Seconds](https://www.youtube.com/watch?v=8lGpZkjnkt4)
 
