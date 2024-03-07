@@ -15,3 +15,7 @@
 - Jitsi (talk.fsinf.at)
 - Öffi-Monitor (oeffi.fsinf.at)
 - Calendar Mobilizon(events.fsinf.at)
+- Lernraum
+- Tee-Küche
+- Fair use Drucker
+- E-Tuts (tut.fsinf.at)
