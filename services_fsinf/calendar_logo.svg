@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 64 64" version="1.1">
+  <g id="layer1" transform="translate(0 -988.36)">
+    <g id="g4545" transform="translate(0,2)">
+      <path id="path3719" d="m10 992.36v55h45v-55h-45z" fill="#737373"/>
+      <path id="path3721" d="m12 1007.4v30.108l7.9461 7.8919h33.054v-38h-41z" fill="#f2f2f2"/>
+      <rect id="rect3737" transform="translate(0 988.36)" height="15" width="45" y="4" x="10" fill="#f77462"/>
+      <g id="text3741" transform="matrix(.978 0 0 1.0041 -.56823 988.34)">
+        <path id="path3747" d="m26.39 48.82v-20.031c-0.36459 0.31252-0.77605 0.6146-1.2344 0.90625-0.44792 0.29168-0.91146 0.56773-1.3906 0.82812-0.46875 0.25002-0.94271 0.47918-1.4219 0.6875-0.46875 0.19793-0.90625 0.3646-1.3125 0.5v-1.7656c1.2292-0.39581 2.401-0.93748 3.5156-1.625 1.125-0.6979 2.2135-1.5 3.2656-2.4062h0.57812v22.906h-2"/>
+        <path id="path3752" d="m44.094 32.164c-0.000012-0.70832-0.10939-1.3333-0.32812-1.875-0.20834-0.55206-0.50522-1.0104-0.89062-1.375-0.38543-0.37498-0.84897-0.65623-1.3906-0.84375-0.54168-0.18748-1.1406-0.28123-1.7969-0.28125-1 0.000021-1.9635 0.2396-2.8906 0.71875-0.91667 0.46877-1.7813 1.099-2.5938 1.8906v-2.2188c0.79166-0.67706 1.6562-1.2031 2.5938-1.5781 0.93749-0.37498 1.9948-0.56248 3.1719-0.5625 0.18749 0.000023 0.36458 0.01044 0.53125 0.03125 0.17708 0.02086 0.34895 0.05211 0.51562 0.09375 0.77082 0.08336 1.4687 0.28127 2.0938 0.59375 0.6354 0.3021 1.1771 0.69794 1.625 1.1875 0.4479 0.4896 0.79165 1.0729 1.0312 1.75 0.24999 0.66668 0.37499 1.4115 0.375 2.2344-0.000014 0.95835-0.12501 1.8177-0.375 2.5781-0.25001 0.76043-0.60939 1.4636-1.0781 2.1094-0.45834 0.63543-1.0156 1.2396-1.6719 1.8125-0.64584 0.56251-1.3698 1.1302-2.1719 1.7031-0.89584 0.64584-1.6667 1.2188-2.3125 1.7188-0.63542 0.48959-1.1667 0.95834-1.5938 1.4062-0.41667 0.44792-0.73438 0.89584-0.95312 1.3438-0.21875 0.44792-0.35938 0.94792-0.42188 1.5-0.05209 0.14584-0.08855 0.29167-0.10938 0.4375-0.01042 0.14584-0.01563 0.30729-0.01563 0.48438h11.156v1.7969h-13.266v-1.0781c-0.000001-1 0.11458-1.8646 0.34375-2.5938 0.23958-0.73958 0.60937-1.4271 1.1094-2.0625 0.5-0.64583 1.1406-1.2865 1.9219-1.9219 0.78124-0.63541 1.7187-1.3489 2.8125-2.1406 0.73958-0.54166 1.3958-1.0625 1.9688-1.5625 0.57291-0.5104 1.0521-1.0312 1.4375-1.5625 0.38541-0.54165 0.67707-1.1146 0.875-1.7188 0.1979-0.60415 0.29686-1.276 0.29688-2.0156"/>
+      </g>
+      <rect id="rect3754" height="5" width="5" y="997.36" x="15" fill="#525252"/>
+      <rect id="rect3756" height="5" width="5" y="997.36" x="45" fill="#525252"/>
+      <path id="rect3758" fill="#8a8a8a" d="m16 989.36h3v12h-3v-12z"/>
+      <path id="path3761" fill="#8a8a8a" d="m46 989.36h3v12h-3v-12z"/>
+      <path id="path3763" d="m20 14v-5l10 10h-5l-5-5z" transform="translate(0 988.36)" fill-opacity=".13725"/>
+      <path id="path3765" d="m50 14v-5l5 5v5l-5-5z" transform="translate(0 988.36)" fill-opacity=".13725"/>
+      <path id="path4539" fill="#6dc5dd" d="m12 1037.4h8v8l-8-8z"/>
+      <path id="path4541" d="m20 49 10 10h-8l-2-2v-8z" transform="translate(0 988.36)" fill-opacity=".19608"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>calendar</dc:title>
+        <dc:date>2013-08-28T14:05:48</dc:date>
+        <dc:description>calendar</dc:description>
+        <dc:source>http://openclipart.org/detail/182401/calendar-by-crisg-182401</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>crisg</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>calendar</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>object</rdf:li>
+            <rdf:li>office</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
