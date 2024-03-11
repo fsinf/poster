@@ -1,5 +1,8 @@
 # FsInf Services
 
+Main raw file: poster.svg
+Program: Inkscape
+
 ## Services
 
 - Instagram (instagram.com/fsinf_at)
