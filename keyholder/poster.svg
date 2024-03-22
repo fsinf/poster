@@ -9,7 +9,7 @@
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    sodipodi:docname="poster.svg"
-   inkscape:export-filename="poster.jpg"
+   inkscape:export-filename="poster.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,8 +27,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.89709226"
-     inkscape:cx="438.63939"
-     inkscape:cy="415.23043"
+     inkscape:cx="407.42744"
+     inkscape:cy="935.80119"
      inkscape:window-width="1916"
      inkscape:window-height="1021"
      inkscape:window-x="0"
@@ -61,7 +61,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;font-family:'Karmatic Arcade';-inkscape-font-specification:'Karmatic Arcade';white-space:pre;shape-inside:url(#rect1);display:inline;vector-effect:non-scaling-stroke;fill:#1a1a1a;-inkscape-stroke:hairline"><tspan
          x="111.44141"
          y="177.96339"
-         id="tspan6">Keyholder</tspan></text>
+         id="tspan1">Keyholder</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,12.085415,1.4648881)"
@@ -69,161 +69,161 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Karmatic Arcade';-inkscape-font-specification:'Karmatic Arcade';white-space:pre;shape-inside:url(#rect2);shape-padding:0.692069;display:inline;vector-effect:non-scaling-stroke;fill:#1a1a1a;-inkscape-stroke:hairline"><tspan
          x="17.642578"
          y="192.35156"
-         id="tspan8"><tspan
+         id="tspan3"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan7">Jede Person die einen Schlüssel zum Lernraum hat </tspan></tspan><tspan
+           id="tspan2">Jede Person die einen Schlüssel zum Lernraum hat </tspan></tspan><tspan
          x="17.642578"
          y="227.73346"
-         id="tspan10"><tspan
+         id="tspan5"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan9">ist ein/e Keyholder*In!
+           id="tspan4">ist ein/e Keyholder*In!
 </tspan></tspan><tspan
          x="17.642578"
          y="263.11536"
-         id="tspan12"><tspan
+         id="tspan9"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan11">
+           id="tspan6">
 </tspan></tspan><tspan
          x="17.642578"
          y="298.49725"
-         id="tspan14"><tspan
+         id="tspan11"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan13">Der Lernraum ist nur offen, wenn min. 1 Keyholder*In </tspan></tspan><tspan
+           id="tspan10">Der Lernraum ist nur offen, wenn min. 1 Keyholder*In </tspan></tspan><tspan
          x="17.642578"
          y="333.87915"
-         id="tspan16"><tspan
+         id="tspan13"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan15">anwesend ist!
+           id="tspan12">anwesend ist!
 </tspan></tspan><tspan
          x="17.642578"
          y="369.26105"
+         id="tspan15"><tspan
+           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
+           id="tspan14">
+</tspan></tspan><tspan
+         x="17.642578"
+         y="404.64294"
          id="tspan18"><tspan
+           style="font-weight:bold"
+           id="tspan16">Typen:</tspan><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
            id="tspan17">
 </tspan></tspan><tspan
          x="17.642578"
-         y="404.64294"
-         id="tspan21"><tspan
-           style="font-weight:bold"
-           id="tspan19">Typen:</tspan><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan20">
-</tspan></tspan><tspan
-         x="17.642578"
          y="440.02484"
-         id="tspan23"><tspan
+         id="tspan22"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan22">* 2 Wochen-Schlüssel (everyone)
+           id="tspan21">* 2 Wochen-Schlüssel (everyone)
 </tspan></tspan><tspan
          x="17.642578"
          y="475.40674"
-         id="tspan25"><tspan
+         id="tspan24"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan24">* Semester-Schlüssel (restricted)
+           id="tspan23">* Semester-Schlüssel (restricted)
 </tspan></tspan><tspan
          x="17.642578"
          y="510.78864"
-         id="tspan27"><tspan
+         id="tspan26"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan26">
+           id="tspan25">
 </tspan></tspan><tspan
          x="17.642578"
          y="546.17053"
-         id="tspan30"><tspan
+         id="tspan31"><tspan
            style="font-weight:bold"
-           id="tspan28">Rechte:</tspan><tspan
+           id="tspan27">Rechte:</tspan><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan29">
+           id="tspan30">
 </tspan></tspan><tspan
          x="17.642578"
          y="581.55243"
-         id="tspan32"><tspan
+         id="tspan33"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan31">    * Kann Lernraum aufsperren
+           id="tspan32">    * Kann Lernraum aufsperren
 </tspan></tspan><tspan
          x="17.642578"
          y="616.93433"
-         id="tspan34"><tspan
+         id="tspan35"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan33">    * 24h-Zugang zu Lernräumen
+           id="tspan34">    * Zugang zu Lernräumen außerhalb der 
 </tspan></tspan><tspan
          x="17.642578"
          y="652.31622"
-         id="tspan36"><tspan
+         id="tspan37"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan35">    * Wochenendzugang zu Lernräumen
+           id="tspan36">       Öffnungszeiten
 </tspan></tspan><tspan
          x="17.642578"
          y="687.69812"
-         id="tspan38"><tspan
+         id="tspan41"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan37">
+           id="tspan38">    * Wochenendzugang zu Lernräumen
 </tspan></tspan><tspan
          x="17.642578"
          y="723.08002"
-         id="tspan41"><tspan
-           style="font-weight:bold"
-           id="tspan39">Pflichten:</tspan><tspan
+         id="tspan43"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan40">
+           id="tspan42">
 </tspan></tspan><tspan
          x="17.642578"
          y="758.46191"
-         id="tspan43"><tspan
+         id="tspan46"><tspan
+           style="font-weight:bold"
+           id="tspan44">Pflichten:</tspan><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan42">    * Achten darauf, dass die Regeln eingehalten 
+           id="tspan45">
 </tspan></tspan><tspan
          x="17.642578"
          y="793.84381"
-         id="tspan45"><tspan
+         id="tspan48"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan44">       werden.
+           id="tspan47">    * Achten darauf, dass die Regeln eingehalten 
 </tspan></tspan><tspan
          x="17.642578"
          y="829.22571"
-         id="tspan47"><tspan
+         id="tspan50"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan46">    * Sperren die Lernräume zu, wenn sie die letzten  
+           id="tspan49">       werden.
 </tspan></tspan><tspan
          x="17.642578"
          y="864.6076"
-         id="tspan49"><tspan
+         id="tspan52"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan48">       sind
+           id="tspan51">    * Sperren die Lernräume zu, wenn sie die letzten  
 </tspan></tspan><tspan
          x="17.642578"
          y="899.9895"
-         id="tspan51"><tspan
+         id="tspan54"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan50">
+           id="tspan53">       sind
 </tspan></tspan><tspan
          x="17.642578"
          y="935.3714"
-         id="tspan53"><tspan
+         id="tspan56"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan52">
+           id="tspan55">
 </tspan></tspan><tspan
          x="17.642578"
          y="970.7533"
-         id="tspan55"><tspan
+         id="tspan58"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan54">Semester-Schlüssel bekommen nur Personen 
+           id="tspan57">Semester-Schlüssel bekommen nur Personen 
 </tspan></tspan><tspan
          x="17.642578"
          y="1006.1352"
-         id="tspan57"><tspan
+         id="tspan60"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan56">die E-Tuts / VoWi-Contributions oder ähnliches </tspan></tspan><tspan
+           id="tspan59">die zur FsInf beitragen (E-Tuts veranstalten, zum </tspan></tspan><tspan
          x="17.642578"
          y="1041.5171"
-         id="tspan59"><tspan
+         id="tspan62"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan58">gemacht haben. 
+           id="tspan61">VoWi beitragen)
 </tspan></tspan><tspan
          x="17.642578"
          y="1076.8989"
-         id="tspan61"><tspan
+         id="tspan64"><tspan
            style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan60">(Für genauere Infos FsInf-Menschen fragen)</tspan></tspan></text>
+           id="tspan63">(Für genauere Infos FsInf-Menschen fragen)</tspan></tspan></text>
   </g>
 </svg>
