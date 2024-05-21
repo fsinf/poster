@@ -1,4 +1,4 @@
-# Keyholder
+# Lernraum
 
 Main raw file: poster.svg
 Program: Inkscape
