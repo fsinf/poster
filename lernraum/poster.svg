@@ -7,16 +7,17 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    sodipodi:docname="poster.svg"
    inkscape:export-filename="poster.jpg"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
      bordercolor="#eeeeee"
@@ -26,214 +27,134 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.26868"
-     inkscape:cx="234.8898"
-     inkscape:cy="786.64436"
-     inkscape:window-width="2560"
-     inkscape:window-height="1377"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.58481768"
+     inkscape:cx="294.96372"
+     inkscape:cy="546.32411"
+     inkscape:window-width="1916"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     showgrid="false" />
-  <defs
-     id="defs1">
-    <rect
+     showgrid="false" /><defs
+     id="defs1"><rect
        x="16.951911"
        y="164.66031"
-       width="702.04251"
-       height="1325.3174"
-       id="rect2" />
-    <rect
+       width="722.87866"
+       height="1313.4111"
+       id="rect2" /><rect
        x="111.44143"
        y="110.7074"
        width="591.49316"
        height="105.67873"
-       id="rect1" />
-  </defs>
-  <g
+       id="rect1" /></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <text
+     id="layer1"><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1.4452124,-18.021517)"
        id="text1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;font-family:'Karmatic Arcade';-inkscape-font-specification:'Karmatic Arcade';white-space:pre;shape-inside:url(#rect1);display:inline;vector-effect:non-scaling-stroke;fill:#1a1a1a;-inkscape-stroke:hairline"><tspan
          x="111.44141"
          y="177.96339"
-         id="tspan796">Lernraum</tspan></text>
-    <text
+         id="tspan4">Lernraum</tspan></text><text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,12.085415,1.4648881)"
+       transform="matrix(0.26458333,0,0,0.26458333,7.3600762,1.4648881)"
        id="text2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Karmatic Arcade';-inkscape-font-specification:'Karmatic Arcade';white-space:pre;shape-inside:url(#rect2);shape-padding:0.692069;display:inline;vector-effect:non-scaling-stroke;fill:#1a1a1a;-inkscape-stroke:hairline"><tspan
-         x="17.644531"
-         y="186.96967"
-         id="tspan800"><tspan
-           style="font-weight:bold"
-           id="tspan798">
-</tspan></tspan><tspan
-         x="17.644531"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC';white-space:pre;shape-inside:url(#rect2);shape-padding:0.692069;display:inline;vector-effect:non-scaling-stroke;fill:#1a1a1a;-inkscape-stroke:hairline"><tspan
+         x="17.642578"
+         y="192.35156"
+         id="tspan5">
+</tspan><tspan
+         x="17.642578"
          y="224.1757"
-         id="tspan806"><tspan
-           style="font-size:32px"
-           id="tspan802">OFFNUNGZEITEN:</tspan><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan804">
-</tspan></tspan><tspan
-         x="17.644531"
+         id="tspan7"><tspan
+   style="font-size:32px;font-family:'Karmatic Arcade';-inkscape-font-specification:'Karmatic Arcade'"
+   id="tspan6">OFFNUNGZEITEN:</tspan>
+</tspan><tspan
+         x="17.642578"
          y="262.35156"
-         id="tspan814"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan808">* </tspan><tspan
-           style="font-weight:bold"
-           id="tspan810">Start:</tspan><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan812"> sobald Keyholder aufsperrt (Mo-Fr)
-</tspan></tspan><tspan
-         x="17.644531"
-         y="297.73346"
-         id="tspan822"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan816">* </tspan><tspan
-           style="font-weight:bold"
-           id="tspan818">Ende:</tspan><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan820"> sobald letzter Keyholder geht (nach 18:00)
-</tspan></tspan><tspan
-         x="17.644531"
-         y="333.11536"
-         id="tspan830"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan824">* Wochenende und an Feiertagen </tspan><tspan
-           style="font-weight:bold"
-           id="tspan826">geschlossen</tspan><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan828">
-</tspan></tspan><tspan
-         x="17.644531"
-         y="368.49725"
-         id="tspan834"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan832">* Ausnahmen gelten für Keyholder
-</tspan></tspan><tspan
-         x="17.644531"
-         y="403.87915"
-         id="tspan838"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan836">
-</tspan></tspan><tspan
-         x="17.644531"
-         y="439.26105"
-         id="tspan842"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan840">
-</tspan></tspan><tspan
-         x="17.644531"
-         y="476.46709"
-         id="tspan848"><tspan
-           style="font-weight:bold;font-size:32px"
-           id="tspan844">nachschauen ob offen ist?</tspan><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan846">
-</tspan></tspan><tspan
-         x="17.644531"
-         y="514.64294"
-         id="tspan856"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan850">    * Im Lernraum-Channel </tspan><tspan
-           style="font-weight:bold"
-           id="tspan852">@keyholder</tspan><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan854"> fragen
-</tspan></tspan><tspan
-         x="17.644531"
-         y="550.02484"
-         id="tspan864"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan858">    * IsItOpen fragen (im MM </tspan><tspan
-           style="font-weight:bold"
-           id="tspan860">/isitopen</tspan><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan862">) 
-</tspan></tspan><tspan
-         x="17.644531"
-         y="585.40674"
-         id="tspan868"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan866">
-</tspan></tspan><tspan
-         x="17.644531"
-         y="620.78864"
-         id="tspan872"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan870">
-</tspan></tspan><tspan
-         x="17.644531"
-         y="657.99467"
-         id="tspan878"><tspan
-           style="font-weight:bold;font-size:32px"
-           id="tspan874">AM wochende in den Leraum?</tspan><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan876">
-</tspan></tspan><tspan
-         x="17.644531"
-         y="696.17053"
-         id="tspan882"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan880">    * Nur Keyholdr
-</tspan></tspan><tspan
-         x="17.644531"
-         y="731.55243"
-         id="tspan886"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan884">    * Personen, die Keyholder mitnimmt
-</tspan></tspan><tspan
-         x="17.644531"
-         y="766.93433"
-         id="tspan890"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan888">
-</tspan></tspan><tspan
-         x="17.644531"
-         y="802.31622"
-         id="tspan894"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan892">
-</tspan></tspan><tspan
-         x="17.644531"
-         y="846.69812"
-         id="tspan902"><tspan
-           style="font-size:32px"
-           id="tspan896">Es passt etwas nicht?</tspan><tspan
-           style="font-size:32px"
-           id="tspan898"> </tspan><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan900">
-</tspan></tspan><tspan
-         x="17.644531"
-         y="884.87396"
-         id="tspan906"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan904">    * Solltest du dich unwohl fühlen oder ist dir
-</tspan></tspan><tspan
-         x="17.644531"
-         y="920.25586"
-         id="tspan910"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan908">        etwas aufgefallen, dann gibt uns bitte bescheid
-</tspan></tspan><tspan
-         x="17.644531"
-         y="955.63776"
-         id="tspan914"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan912">    * E-Mail: fsinf@fsinf.at
-</tspan></tspan><tspan
-         x="17.644531"
-         y="991.01965"
-         id="tspan918"><tspan
-           style="font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC'"
-           id="tspan916">    * Ps: geht auch anonym mit Throwaway-E-Mail </tspan></tspan></text>
-  </g>
-</svg>
+         id="tspan9">    * <tspan
+   style="font-weight:bold"
+   id="tspan8">Start:</tspan> sobald Keyholder aufsperrt (Mo-Fr) 
+</tspan><tspan
+         x="17.642578"
+         y="292.35156"
+         id="tspan11">    * <tspan
+   style="font-weight:bold"
+   id="tspan10">Ende:</tspan> sobald letzter Keyholder geht (nach 18:00)
+</tspan><tspan
+         x="17.642578"
+         y="322.35156"
+         id="tspan13">    * Wochenende und an Feiertagen <tspan
+   style="font-weight:bold"
+   id="tspan12">geschlossen</tspan>
+</tspan><tspan
+         x="17.642578"
+         y="352.35156"
+         id="tspan14">    * Ausnahmen gelten für Keyholder
+</tspan><tspan
+         x="17.642578"
+         y="382.35156"
+         id="tspan15">
+</tspan><tspan
+         x="17.642578"
+         y="412.35156"
+         id="tspan16">
+</tspan><tspan
+         x="17.642578"
+         y="444.1757"
+         id="tspan18"><tspan
+   style="font-size:32px;font-family:'Karmatic Arcade';-inkscape-font-specification:'Karmatic Arcade'"
+   id="tspan17">nachschauen ob offen ist?</tspan>
+</tspan><tspan
+         x="17.642578"
+         y="482.35156"
+         id="tspan19">    * Im Lernraum-Channel @keyholder fragen
+</tspan><tspan
+         x="17.642578"
+         y="512.35156"
+         id="tspan20">    * IsItOpen fragen (im MM /isitopen) 
+</tspan><tspan
+         x="17.642578"
+         y="542.35156"
+         id="tspan21">
+</tspan><tspan
+         x="17.642578"
+         y="572.35156"
+         id="tspan22">
+</tspan><tspan
+         x="17.642578"
+         y="611.35156"
+         id="tspan25"><tspan
+   style="font-size:32px;font-family:'Karmatic Arcade';-inkscape-font-specification:'Karmatic Arcade'"
+   id="tspan23">Es passt etwas nicht?</tspan><tspan
+   style="font-size:32px"
+   id="tspan24"> </tspan>
+</tspan><tspan
+         x="17.642578"
+         y="649.5274"
+         id="tspan26">    * Solltest du dich unwohl fühlen oder ist dir
+</tspan><tspan
+         x="17.642578"
+         y="679.5274"
+         id="tspan27">       etwas aufgefallen, dann gibt uns bitte bescheid
+</tspan><tspan
+         x="17.642578"
+         y="709.5274"
+         id="tspan28">    * Anonymer Briefkasten (vor der FsInf)
+</tspan><tspan
+         x="17.642578"
+         y="739.5274"
+         id="tspan29">    * E-Mail: fsinf@fsinf.at
+</tspan><tspan
+         x="17.642578"
+         y="769.5274"
+         id="tspan30">    * Ps: geht auch anonym mit Throwaway-E-Mail </tspan></text><image
+       width="71.291985"
+       height="51.795807"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA9QAAALICAMAAACpaUjiAAAABGdBTUEAALGPC/xhBQAAAAFzUkdC&#10;AK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAALRQTFRF&#10;////lJSUiIiIoKCgGhoaAAAAMzMzo6OjmZmZj4+PZmZmzMzMTU1NVVVVREREKSkpl5eXoaGhqqqq&#10;q6uru7u7xsbG0NDQ3d3d6urq7u7u9PT0EBAQERERIiIiJCQkDw8PbW1tLCwsm5ubFRUV5eXlsrKy&#10;f39/t7e3d3d3DAwMFhYWQkJCe3t7tbW12NjY6enp+/v71tbWSEhICgoKDQ0NHx8fMDAws7Ozp6en&#10;Tk5Ora2t////wbuFewAAAAF0Uk5TAEDm2GYAAAABYktHRACIBR1IAAAACXBIWXMAAABIAAAASABG&#10;yWs+AAAQY0lEQVR42u3V67adV22A4Ti4jonTAuGQ0hBaKNBybin0dP8X1l9MzTGszYhNpbUlP88V&#10;TOnTu9ZHH03z4uMq33j0aLy/b5SdxYtHj/YBePk3VV49ejTe36uys3j56NE+AKImIerJRE1C1JOJ&#10;moSoJxM1CVFPJmoSop5M1CREPZmoSYh6MlGTEPVkoiYh6slETULUk4mahKgnEzUJUU8mahKinkzU&#10;JEQ9mahJiHoyUZMQ9WSiJiHqyURNQtSTiZqEqCcTNQlRTyZqEqKeTNQkRD2ZqEmIejJRkxD1ZKIm&#10;IerJRE1C1JOJmoSoJxM1CVFPJmoSop5M1CREPZmoSYh6MlGTEPVkoiYh6slETULUk4mahKgnEzUJ&#10;UU8mahKinkzUJEQ9mahJiHoyUZMQ9WSiJiHqyURNQtSTiZqEqCcTNQlRTyZqEqKeTNQkRD2ZqEmI&#10;ejJRkxD1ZKImIerJRE1C1JOJmoSoJxM1CVFPJmoSop5M1CREPZmoSYh6MlGTEPVkoiYh6slETULU&#10;k4mahKgnEzUJUU8mahKinkzUJEQ9mahJiHoyUZMQ9WSiJiHqyURNQtSTiZqEqCcTNQlRTyZqEqKe&#10;TNQkRD2ZqEmIejJRkxD1ZKImIerJRE1C1JOJmoSoJxM1CVFPJmoSop5M1CREPZmoSYh6MlGTEPVk&#10;oiYh6slETULUk4mahKgnEzUJUU8mahKinkzUJEQ9mahJiHqyT15X+eanRV48emfPx4uqHX+z7Cw+&#10;efTO+Cu8qfqt/+zRkz0fn1Xt+M2jJ+NZEnU9UdNK1PVETStR1xM1rURdT9S0EnU9UdNK1PVETStR&#10;1xM1rURdT9S0EnU9UdNK1PVETStR1xM1rURdT9S0EnU9UdNK1PVETStR1xM1rURdT9S0EnU9UdNK&#10;1PVETStR1xM1rURdT9S0EnU9UdNK1PVETStR1xM1rURdT9S0EnU9UdNK1PVETStR1xM1rURdT9S0&#10;EnU9UdNK1PVETStR1xM1rURdT9S0EnU9UdNK1PVETStR1xM1rURdT9S0EnU9UdNK1PVETStR1xM1&#10;rURdT9S0EnU9UdNK1PVETStR1xM1rURdT9S0EnU9UdNK1PVETStR1xM1rURdT9S0EnU9UdNK1PVE&#10;TStR1xM1rURdT9S0EnU9UdNK1PVETStR1xM1rURdT9S0EnU9UdNK1PVETStR1xM1rURdT9S0EnU9&#10;UdNK1PVETStR1xM1rURdT9S0EnU9UdNK1PVETStR1xM1rURdT9S0EnU9UdNK1PVETStR1xM1rURd&#10;T9S0EnU9UdNK1PVETStR1xM1rURdT9S0EnU9UdNK1PVETStR1xM1rURdT9S0EnU9UdNK1PVETStR&#10;1xM1rURdT9S0EnU9UdNK1PVETStR1xM1iU//tsrfVR3ctz5+yrdfP+E7nz/hu997yvffPOEHXzzl&#10;73/4hH+o+nqiJvGy6iz4Or780RNefvWEH7+6/GPVu/7p4yovHn3xHwBR0+rloy/+AyBqWom6nqhp&#10;Jep6oqaVqOuJmlairidqWom6nqhpJep6oqaVqOuJmlairidqWom6nqhpJep6oqaVqOuJmlairidq&#10;Wom6nqhpJep6oqaVqOuJmlairidqWom6nqhpJep6oqaVqOuJmlairidqWom6nqhpJep6oqaVqOuJ&#10;mlairidqWom6nqhpJep6oqaVqOuJmlairidqWom6nqhpJep6oqaVqOuJmlairidqWom6nqhpJep6&#10;oqaVqOuJmlairidqWom6nqhpJep6oqaVqOuJmlairidqWom6nqhpJep6oqaVqOuJmlairidqWom6&#10;nqhpJep6oqaVqOuJmlairidqWom6nqhpJep6oqaVqOuJmlairidqWom6nqhpJep6oqaVqOuJmlai&#10;ridqWom6nqhpJep6oqaVqOuJmlairidqWom6nqhpJep6oqaVqOuJmlairidqWom6nqhpJep6oqaV&#10;qOuJmlairidqWom6nqhpJep6oqaVqOuJmlairidqWom6nqhpJep6oqaVqOuJmlairidqWom6nqhp&#10;Jep6oqaVqOuJmlairidqWom6nqhpJep6oqaVqOuJmlairidqWom6nqhpJep6dVH/5IsiP330XT4f&#10;P63a8U/KnvzPb2r87NElPSN1Ub+qevLPy548zs+rdvzq0ZO9s19UraLOzx69s3cn6nqiPkTdQdT1&#10;RH2IuoOo64n6EHUHUdcT9SHqDqKuJ+pD1B1EXU/Uh6g7iLqeqA9RdxB1PVEfou4g6nqiPkTdQdT1&#10;RH2IuoOo64n6EHUHUdcT9SHqDqKuJ+pD1B1EXU/Uh6g7iLqeqA9RdxB1PVEfou4g6nqiPkTdQdT1&#10;RH2IuoOo64n6EHUHUdcT9SHqDqKuJ+pD1B1EXU/Uh6g7iLqeqA9RdxB1PVEfou4g6nqiPkTdQdT1&#10;RH2IuoOo64n6EHUHUdcT9SHqDqKuJ+pD1B1EXU/Uh6g7iLqeqA9RdxB1PVEfou4g6nqiPkTdQdT1&#10;RH2IuoOo64n6EHUHUdcT9SHqDqKuJ+pD1B1EXU/Uh6g7iLqeqA9RdxB1PVEfou4g6nqiPkTdQdT1&#10;RH2IuoOo64n6EHUHUdcT9SHqDqKuJ+pD1B1EXU/Uh6g7iLqeqA9RdxB1PVEfou4g6nqiPkTdQdT1&#10;RH2IuoOo64n6EHUHUdcT9SHqDqKuJ+pD1B1EXU/Uh6g7iLqeqA9RdxB1PVEfou4g6nqiPkTdQdT1&#10;RH2IuoOo64n6EHUHUdcT9SHqDqKuJ+pD1B1EXU/Uh6g7iLqeqA9RdxB1PVEfou4g6nqiPkTdQdT1&#10;RH2IuoOo64n6EHUHUdcT9SHqDqKuJ+pD1B1EXU/Uh6g7iLqeqA9RdxB1PVEfou4g6nqiPkTdQdT1&#10;RH2IuoOo64n6EHUHUdcT9SHqDqKuJ+pD1B1EXU/Uh6g7iLqeqA9RdxB1PVEfou4g6nqiPkTdQdT1&#10;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&#10;ODc1N2Y1Yy5zdmf3hLUKAAAAAElFTkSuQmCC&#10;"
+       id="image1"
+       x="64.828255"
+       y="225.17259" /></g></svg>
