@@ -27,11 +27,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.84178233"
-     inkscape:cx="326.0938"
-     inkscape:cy="923.63545"
-     inkscape:window-width="1916"
+     inkscape:cx="366.48429"
+     inkscape:cy="491.21962"
+     inkscape:window-width="956"
      inkscape:window-height="1021"
-     inkscape:window-x="0"
+     inkscape:window-x="960"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -72,109 +72,79 @@
          y="29.742514">Kitchen Rules</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-24.921402,-22.527704)"
+       transform="matrix(0.26458333,0,0,0.26458333,-25.450569,-22.527704)"
        id="text3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC';text-align:start;white-space:pre;shape-inside:url(#rect3);shape-padding:12.3487;display:inline;vector-effect:non-scaling-stroke;fill:#1a1a1a;-inkscape-stroke:hairline"
-       x="-254.62988"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'8-bit Operator+ SC';-inkscape-font-specification:'8-bit Operator+ SC';text-align:center;white-space:pre;shape-inside:url(#rect3);shape-padding:12.3487;display:inline;vector-effect:non-scaling-stroke;fill:#1a1a1a;-inkscape-stroke:hairline"
+       x="85.648468"
        y="0"><tspan
-         x="148.01758"
-         y="286.47855"
-         id="tspan1">1. Küche sauber halten
+         x="296.07464"
+         y="295.47855"
+         id="tspan1">Küche sauber halten.
 </tspan><tspan
-         x="148.01758"
-         y="319.81193"
-         id="tspan3">
+         x="478.13508"
+         y="338.81193"
+         id="tspan3">*
 </tspan><tspan
-         x="148.01758"
-         y="353.1453"
-         id="tspan4">2. Schmutziges Geschirr und Besteck IMMER in </tspan><tspan
-         x="148.01758"
-         y="386.47868"
-         id="tspan5">den Geschirrspüler räumen (nicht per Hand </tspan><tspan
-         x="148.01758"
-         y="419.81205"
-         id="tspan6">abwaschen)
+         x="171.19018"
+         y="382.1453"
+         id="tspan4">Schmutziges Geschirr und Besteck </tspan><tspan
+         x="219.33842"
+         y="425.47867"
+         id="tspan5">IMMER in den Geschirrspüler.
 </tspan><tspan
-         x="148.01758"
-         y="453.14542"
-         id="tspan7">
+         x="478.13508"
+         y="468.81205"
+         id="tspan6">*
 </tspan><tspan
-         x="148.01758"
-         y="486.4788"
-         id="tspan8">3. Geschirrspüler ausräumen, wenn er fertig </tspan><tspan
-         x="148.01758"
-         y="519.81217"
-         id="tspan9">ist
+         x="171.19018"
+         y="512.14542"
+         id="tspan7">Schmutziges Geschirr und Besteck </tspan><tspan
+         x="184.73189"
+         y="555.4788"
+         id="tspan8">NICHT im Waschbecken abstellen.
 </tspan><tspan
-         x="148.01758"
-         y="553.14555"
-         id="tspan10">
+         x="478.13508"
+         y="598.81217"
+         id="tspan9">*
 </tspan><tspan
-         x="148.01758"
-         y="586.47892"
-         id="tspan11">4. Geschirrspüler einschalten, wenn er voll </tspan><tspan
-         x="148.01758"
-         y="619.81229"
-         id="tspan12">ist
+         x="171.19018"
+         y="642.14554"
+         id="tspan10">Geschirrspüler einschalten, wenn </tspan><tspan
+         x="383.34329"
+         y="685.47892"
+         id="tspan11">er voll ist.
 </tspan><tspan
-         x="148.01758"
-         y="653.14567"
-         id="tspan13">
+         x="478.13508"
+         y="728.81229"
+         id="tspan12">*
 </tspan><tspan
-         x="148.01758"
-         y="686.47904"
-         id="tspan14">5. Messer per Hand abspülen
+         x="159.15316"
+         y="772.14567"
+         id="tspan13">Geschirrspüler ausräumen, wenn er </tspan><tspan
+         x="392.37106"
+         y="815.47904"
+         id="tspan14">fertig ist.
 </tspan><tspan
-         x="148.01758"
-         y="719.81242"
-         id="tspan15">
+         x="478.13508"
+         y="858.81241"
+         id="tspan15">*
 </tspan><tspan
-         x="148.01758"
-         y="753.14579"
-         id="tspan16">6. Nichts im Waschbecken abstellen
+         x="171.19018"
+         y="902.14579"
+         id="tspan16">Elektrische Geräte nach Gebrauch </tspan><tspan
+         x="392.37106"
+         y="945.47916"
+         id="tspan17">abstecken.
 </tspan><tspan
-         x="148.01758"
-         y="786.47916"
-         id="tspan17">
+         x="478.13508"
+         y="988.81254"
+         id="tspan18">*
 </tspan><tspan
-         x="148.01758"
-         y="819.81254"
-         id="tspan18">7. Dinge im Kühlschrank beschriften </tspan><tspan
-         x="148.01758"
-         y="853.14591"
-         id="tspan19">(Unbeschriftete /schimmelnde Dinge </tspan><tspan
-         x="148.01758"
-         y="886.47929"
-         id="tspan20">wegwerfen)
-</tspan><tspan
-         x="148.01758"
-         y="919.81266"
-         id="tspan21">
-</tspan><tspan
-         x="148.01758"
-         y="953.14603"
-         id="tspan22">8. Elektrische Geräte nach Gebrauch abstecken
-</tspan><tspan
-         x="148.01758"
-         y="986.47941"
-         id="tspan23">
-</tspan><tspan
-         x="148.01758"
-         y="1019.8128"
-         id="tspan24">9. Kein stark riechendes Essen kochen! (Denk an </tspan><tspan
-         x="148.01758"
-         y="1053.1462"
-         id="tspan25">die anderen Studis)
-</tspan><tspan
-         x="148.01758"
-         y="1086.4795"
-         id="tspan26">
-</tspan><tspan
-         x="148.01758"
-         y="1119.8129"
-         id="tspan27">10. Andere Personen auf die Regeln aufmerksam </tspan><tspan
-         x="148.01758"
-         y="1153.1463"
-         id="tspan28">machen!</tspan></text>
+         x="196.76894"
+         y="1032.1459"
+         id="tspan19">Andere Personen auf die Regeln </tspan><tspan
+         x="303.59781"
+         y="1075.4793"
+         id="tspan20">aufmerksam machen.</tspan></text>
   </g>
 </svg>
